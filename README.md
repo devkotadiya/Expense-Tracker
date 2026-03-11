@@ -1,2 +1,2 @@
 # Expense-Tracker
-A console-based Expense Tracker in C++ that supports adding, deleting, and undoing expense operations using Linked List, Stack (Undo), and Queue data structures.
+A console-based Expense Tracker built in C++ that allows users to add and delete expenses efficiently. The project demonstrates the use of Linked List for storing expenses, Stack for undo operations, and Queue for managing expense records.
